@@ -1,0 +1,23 @@
+{
+    "1010101010":
+        {
+        "user":"Pablo Aristizabal",
+        "password":1234,
+        "permisos":"Administrador"
+        }
+    ,
+    "1212121212":
+        {
+        "user":"Luisa Zapata",
+        "password":1234,
+        "permisos":"Administrador"
+        }
+    ,
+    "1313131313":
+        {
+        "user":"Juan Andres Sanudo",
+        "password":1234,
+        "permisos":"Administrador"
+        }
+}
+
